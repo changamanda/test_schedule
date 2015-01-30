@@ -1,2 +1,1 @@
-# ruby-007
-schedule repository for the ruby 007
+week-1/day-1.md
