@@ -10,7 +10,9 @@ The plan        |      |
 4 - 5:30        | Git / Github / Ironboard 
 5:30 - 6        | [Your First Ironboard Lab](http://learn.flatironschool.com/lessons/3760)
 
-## Git Labs
+## Labs
+
+__Look over these labs - they will be assigned tomorrow.__
 
 * [Git Todo](http://learn.flatironschool.com/lessons/3292)
 * [Git Flow](http://learn.flatironschool.com/lessons/3293)
