@@ -8,7 +8,17 @@ The plan        |      |
 12 - 1          | Lunch
 1 - 4           | Orientation
 4 - 5:30        | Git / Github / Ironboard 
-5:30 - 6        | [Your First Ironboard Lab](http://learn.flatironschool.com/learn/ruby-007/web-development/ironboard-tutorial/using-ironboard/the-first-lab)
+5:30 - 6        | [Your First Ironboard Lab](http://learn.flatironschool.com/lessons/3760)
+
+## Git Labs
+
+* [Git Todo](http://learn.flatironschool.com/lessons/3292)
+* [Git Flow](http://learn.flatironschool.com/lessons/3293)
+
+## Homework
+
+* [Environment Setup](http://learn.flatironschool.com/lessons/3288)
+* [More Environment Setup](http://learn.flatironschool.com/lessons/3289)
 
 ### Lots of Resources
 
