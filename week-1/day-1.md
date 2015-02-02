@@ -7,22 +7,44 @@ The plan        |      |
 9 - 12          | [Deploy on Day 1](https://github.com/flatiron-school-ironboard/deploy-on-day-1-ruby-007)
 12 - 1          | Lunch
 1 - 4           | Orientation
-4 - 5:30        | Git / Github / Ironboard 
-5:30 - 6        | [Your First Ironboard Lab](http://learn.flatironschool.com/lessons/3760)
-
-## Labs
-
-__Look over these labs - they will be assigned tomorrow.__
-
-* [Git Todo](http://learn.flatironschool.com/lessons/3292)
-* [Git Flow](http://learn.flatironschool.com/lessons/3293)
+4 - 5           | Git / Github / Ironboard 
+5 - 5:30        | Finish Up V1 Deploy on Day 1
+5:30 - 6        | HW + Get Home Safely
 
 ## Homework
 
-* [Environment Setup](http://learn.flatironschool.com/lessons/3288)
-* [More Environment Setup](http://learn.flatironschool.com/lessons/3289)
+* [Git Todo](http://learn.flatironschool.com/lessons/3292)
+* [Passion and Talent](http://learn.flatironschool.com/learn/ruby-007/web-development-ruby-007/introduction/day-one/passion-and-talent)
+* [Hackers and Painters](http://learn.flatironschool.com/learn/ruby-007/web-development-ruby-007/introduction/day-one/hackers-and-painters)
+* [Bash Tutorial](http://learn.flatironschool.com/learn/ruby-007/web-development-ruby-007/introduction/git-and-bash/bash-tutorial)
 
-### Lots of Resources
+[Install XCode](http://learn.flatironschool.com/lessons/3789)
+
+[Organize Your Profile Content](https://gist.github.com/aviflombaum/f805712031c3d21e2b7d)
+
+Try to get XCode and XCode Command Line Tools installed, depending on your OS version and your XCode version, the instructions are a little different.
+
+Try these resources:
+
+[RailsApps Installing Ruby on OSX](http://railsapps.github.io/installrubyonrails-mac.html)
+
+[InstallRails](http://installrails.com/)
+
+If you can go into terminal and type: gcc and get anything besides `-bash: gcc: command not found` you're good.
+
+Ultimately we'll deal with most of the environment setup tomorrow but we use a RVM based setup with Homebrew for Package manager.
+
+
+## Prepare For (Read and Try but Don't Stress)
+
+Read these guides and prepare as best as possible for doing these tomorrow afternoon.
+
+* [Environment Setup](http://learn.flatironschool.com/learn/ruby-007/web-development-ruby-007/introduction/environment-setup/more-environment-setup)
+* [Software Setup](http://learn.flatironschool.com/learn/ruby-007/web-development-ruby-007/introduction/environment-setup/bonus-environment-setup)
+
+## Resources
+
+Use these to brush up on topics you don't know. Obviously you can't read all these tonight, but skim around for the areas you are least familiar with.
 
 * Git Basics ([Gist of Git resources](https://gist.github.com/aviflombaum/0d1c335291350a2e4036))
   - [Getting Started 1](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)
