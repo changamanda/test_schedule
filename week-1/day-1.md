@@ -17,10 +17,8 @@ The plan        |      |
 * [Passion and Talent](http://learn.flatironschool.com/learn/ruby-007/web-development-ruby-007/introduction/day-one/passion-and-talent)
 * [Hackers and Painters](http://learn.flatironschool.com/learn/ruby-007/web-development-ruby-007/introduction/day-one/hackers-and-painters)
 * [Bash Tutorial](http://learn.flatironschool.com/learn/ruby-007/web-development-ruby-007/introduction/git-and-bash/bash-tutorial)
-
-[Install XCode](http://learn.flatironschool.com/lessons/3789)
-
-[Organize Your Profile Content](https://gist.github.com/aviflombaum/f805712031c3d21e2b7d)
+* [Install XCode](http://learn.flatironschool.com/lessons/3789)
+* [Organize Your Profile Content](https://gist.github.com/aviflombaum/f805712031c3d21e2b7d)
 
 Try to get XCode and XCode Command Line Tools installed, depending on your OS version and your XCode version, the instructions are a little different.
 
