@@ -1,10 +1,10 @@
-# Day 1 - Monday, February 2, 2015 
+# Day 1 - Monday, March 30, 2015 
 
 Welcome to Flatiron School! :squirrel: Welcome to Flatiron School!
 
 The plan        |      |
 ----------------|-------
-9 - 12          | [Deploy on Day 1](https://github.com/flatiron-school-ironboard/deploy-on-day-1-ruby-007)
+9 - 12          | [Deploy on Day 1](https://github.com/flatiron-school-ironboard/deploy-on-day-1-web-0415)
 12 - 1          | Lunch
 1 - 4           | Orientation
 4 - 5           | Git / Github / Ironboard 
@@ -14,9 +14,9 @@ The plan        |      |
 ## Homework
 
 * [Git Todo](http://learn.flatironschool.com/lessons/3292)
-* [Passion and Talent](http://learn.flatironschool.com/learn/ruby-007/web-development-ruby-007/introduction/day-one/passion-and-talent)
-* [Hackers and Painters](http://learn.flatironschool.com/learn/ruby-007/web-development-ruby-007/introduction/day-one/hackers-and-painters)
-* [Bash Tutorial](http://learn.flatironschool.com/learn/ruby-007/web-development-ruby-007/introduction/git-and-bash/bash-tutorial)
+* [Passion and Talent](http://learn.flatironschool.com/learn/web-0415/web-development-web-0415/introduction/day-one/passion-and-talent)
+* [Hackers and Painters](http://learn.flatironschool.com/learn/web-0415/web-development-web-0415/introduction/day-one/hackers-and-painters)
+* [Bash Tutorial](http://learn.flatironschool.com/learn/web-0415/web-development-web-0415/introduction/git-and-bash/bash-tutorial)
 * [Install XCode](http://learn.flatironschool.com/lessons/3789)
 * [Organize Your Profile Content](https://gist.github.com/aviflombaum/f805712031c3d21e2b7d)
 
@@ -37,8 +37,8 @@ Ultimately we'll deal with most of the environment setup tomorrow but we use a R
 
 Read these guides and prepare as best as possible for doing these tomorrow afternoon.
 
-* [Environment Setup](http://learn.flatironschool.com/learn/ruby-007/web-development-ruby-007/introduction/environment-setup/more-environment-setup)
-* [Software Setup](http://learn.flatironschool.com/learn/ruby-007/web-development-ruby-007/introduction/environment-setup/bonus-environment-setup)
+* [Environment Setup](http://learn.flatironschool.com/learn/web-0415/web-development-web-0415/introduction/environment-setup/more-environment-setup)
+* [Software Setup](http://learn.flatironschool.com/learn/web-0415/web-development-web-0415/introduction/environment-setup/bonus-environment-setup)
 
 ## Resources
 
