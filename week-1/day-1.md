@@ -9,7 +9,7 @@ The plan        |      |
 1:30 - 4:30           | Orientation
 4:30 - 5:30           | Git / Github / Learn in Turing
 5:30 - 6        | Finish Up V1 Deploy on Day 1
-6 - 6        | HW + Get Home Safely
+6        | HW + Get Home Safely
 
 ## Homework
 
