@@ -7,7 +7,7 @@ The plan        |      |
 9 - 12          | [Deploy on Day 1](https://github.com/flatiron-school-ironboard/deploy-on-day-1-web-0415)
 12 - 1          | Lunch
 1 - 4           | Orientation
-4 - 5           | Git / Github / Learn 
+4 - 5           | Git / Github / Learn in Turing
 5 - 5:30        | Finish Up V1 Deploy on Day 1
 5:30 - 6        | HW + Get Home Safely
 
@@ -20,18 +20,11 @@ The plan        |      |
 * [Install XCode](http://learn.flatironschool.com/lessons/3789)
 * [Organize Your Profile Content](https://gist.github.com/aviflombaum/f805712031c3d21e2b7d)
 
-Try to get XCode and XCode Command Line Tools installed, depending on your OS version and your XCode version, the instructions are a little different.
-
-Try these resources:
-
-[RailsApps Installing Ruby on OSX](http://railsapps.github.io/installrubyonrails-mac.html)
-
-[InstallRails](http://installrails.com/)
+Make sure you're on the class [File Sync
+Folder](https://link.getsync.com/#f=sync&sz=27E8&s=CLZ7ROST7BP6C34ROQP4VW2K4CMAVIGQ&i=CWO52O7HDYXTAAC4KESXI7CVDHUISIIFZ&p=CBHNYWRDUYDMCP4SPOWRX64R3DWTJUV2&e=1427831998).
+XCode 6.2 should be in there.
 
 If you can go into terminal and type: gcc and get anything besides `-bash: gcc: command not found` you're good.
-
-Ultimately we'll deal with most of the environment setup tomorrow but we use a RVM based setup with Homebrew for Package manager.
-
 
 ## Environment Setup Homework
 
