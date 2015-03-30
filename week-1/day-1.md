@@ -5,11 +5,11 @@ Welcome to Flatiron School! :squirrel: Welcome to Flatiron School!
 The plan        |      |
 ----------------|-------
 9 - 12          | [Deploy on Day 1](https://github.com/flatiron-school-ironboard/deploy-on-day-1-web-0415)
-12 - 1          | Lunch
-1 - 4           | Orientation
-4 - 5           | Git / Github / Learn in Turing
-5 - 5:30        | Finish Up V1 Deploy on Day 1
-5:30 - 6        | HW + Get Home Safely
+12:30 - 1:30          | Lunch
+1:30 - 4:30           | Orientation
+4:30 - 5:30           | Git / Github / Learn in Turing
+5:30 - 6        | Finish Up V1 Deploy on Day 1
+6 - 6        | HW + Get Home Safely
 
 ## Homework
 
