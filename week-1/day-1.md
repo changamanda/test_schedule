@@ -33,12 +33,9 @@ If you can go into terminal and type: gcc and get anything besides `-bash: gcc: 
 Ultimately we'll deal with most of the environment setup tomorrow but we use a RVM based setup with Homebrew for Package manager.
 
 
-## Prepare For (Read and Try but Don't Stress)
+## Environment Setup Homework
 
-Read these guides and prepare as best as possible for doing these tomorrow afternoon.
-
-* [Environment Setup](http://learn.flatironschool.com/lessons/3288)
-* [Software Setup](http://learn.flatironschool.com/lessons/3289)
+Before tomorrow, check out the [Environmentalizer](https://github.com/flatiron-labs/environmentalizer) repository on Github. Read through the README (especially the "What You Need Before You Begin" section), and run `curl -L "https://raw.githubusercontent.com/flatiron-labs/environmentalizer/master/runner.sh" | bash`. The installations will take awhile.
 
 ## Resources
 
