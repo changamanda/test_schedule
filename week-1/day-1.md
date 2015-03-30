@@ -7,7 +7,7 @@ The plan        |      |
 9 - 12          | [Deploy on Day 1](https://github.com/flatiron-school-ironboard/deploy-on-day-1-web-0415)
 12 - 1          | Lunch
 1 - 4           | Orientation
-4 - 5           | Git / Github / Ironboard 
+4 - 5           | Git / Github / Learn 
 5 - 5:30        | Finish Up V1 Deploy on Day 1
 5:30 - 6        | HW + Get Home Safely
 
