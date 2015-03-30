@@ -26,10 +26,6 @@ XCode 6.2 should be in there.
 
 If you can go into terminal and type: gcc and get anything besides `-bash: gcc: command not found` you're good.
 
-## Environment Setup Homework
-
-Before tomorrow, check out the [Environmentalizer](https://github.com/flatiron-labs/environmentalizer) repository on Github. Read through the README (especially the "What You Need Before You Begin" section), and run `curl -L "https://raw.githubusercontent.com/flatiron-labs/environmentalizer/master/runner.sh" | bash`. The installations will take awhile.
-
 ## Resources
 
 Use these to brush up on topics you don't know. Obviously you can't read all these tonight, but skim around for the areas you are least familiar with.
