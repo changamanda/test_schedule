@@ -8,7 +8,7 @@ The plan        |      |
 12 - 1          | Lunch
 1 - 3           | Orientation Logistics
 3 - 4           | [Merge Conflict Lab](http://learn.flatironschool.com/lessons/3294)
-4 - 6           | The Shell Lecture / Environment Setup
+4 - 6           | The Shell Lecture / [Environment Setup](https://learn.flatironschool.com/lessons/5156)
 
 ## HW
 
