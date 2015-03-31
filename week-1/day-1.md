@@ -5,11 +5,11 @@ Welcome to Flatiron School! :squirrel: Welcome to Flatiron School!
 The plan        |      |
 ----------------|-------
 9 - 12          | [Deploy on Day 1](https://github.com/flatiron-school-ironboard/deploy-on-day-1-web-0415)
-12 - 1          | Lunch
-1 - 4           | Orientation
-4 - 5           | Git / Github / Ironboard 
-5 - 5:30        | Finish Up V1 Deploy on Day 1
-5:30 - 6        | HW + Get Home Safely
+12:30 - 1:30    | Lunch
+1:30 - 4:30     | Orientation
+4:30 - 5:30     | Git / Github / Learn in Turing
+5:30 - 6        | Finish Up V1 Deploy on Day 1
+6               | HW + Get Home Safely
 
 ## Homework
 
@@ -20,22 +20,11 @@ The plan        |      |
 * [Install XCode](http://learn.flatironschool.com/lessons/3789)
 * [Organize Your Profile Content](https://gist.github.com/aviflombaum/f805712031c3d21e2b7d)
 
-Try to get XCode and XCode Command Line Tools installed, depending on your OS version and your XCode version, the instructions are a little different.
-
-Try these resources:
-
-[RailsApps Installing Ruby on OSX](http://railsapps.github.io/installrubyonrails-mac.html)
-
-[InstallRails](http://installrails.com/)
+Make sure you're on the class [File Sync
+Folder](https://link.getsync.com/#f=sync&sz=27E8&s=CLZ7ROST7BP6C34ROQP4VW2K4CMAVIGQ&i=CWO52O7HDYXTAAC4KESXI7CVDHUISIIFZ&p=CBHNYWRDUYDMCP4SPOWRX64R3DWTJUV2&e=1427831998).
+XCode 6.2 should be in there.
 
 If you can go into terminal and type: gcc and get anything besides `-bash: gcc: command not found` you're good.
-
-Ultimately we'll deal with most of the environment setup tomorrow but we use a RVM based setup with Homebrew for Package manager.
-
-
-## Environment Setup Homework
-
-Before tomorrow, check out the [Environmentalizer](https://github.com/flatiron-labs/environmentalizer) repository on Github. Read through the README (especially the "What You Need Before You Begin" section), and run `curl -L "https://raw.githubusercontent.com/flatiron-labs/environmentalizer/master/runner.sh" | bash`. The installations will take awhile.
 
 ## Resources
 
