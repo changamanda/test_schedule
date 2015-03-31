@@ -3,12 +3,13 @@
 The plan        |      |
 ----------------|-------
 9 - 10          | [Git Flow](http://learn.flatironschool.com/lessons/3293)
-10 - 11         | Review Git Flow
-11 - 12         | Finalize Student Profiles (Begin Merge)
+10 - 10:15      | Programmer of the Day
+10:15 - 12      | The Shell Lecture / [Environment Setup](https://learn.flatironschool.com/lessons/5156)
 12 - 1          | Lunch
 1 - 3           | Orientation Logistics
-3 - 4           | [Merge Conflict Lab](http://learn.flatironschool.com/lessons/3294)
-4 - 6           | The Shell Lecture / [Environment Setup](https://learn.flatironschool.com/lessons/5156)
+3 - 4           | Review Git Flow
+4 - 5           | [Merge Conflict Lab](http://learn.flatironschool.com/lessons/3294)
+5 - 6           | Finish Environment Setup
 
 ## HW
 
