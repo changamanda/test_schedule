@@ -9,8 +9,8 @@ The plan        |      |
 12 - 1          | Lunch
 1 - 3           | Lab Time
 3 - 4           | Group Programming Exercise
-4 - 5           | Lab Reviews
-5 - 6           | Hashes and Arrays Lecture
+4 - 5           | Hashes and Arrays Lecture
+5 - 6           | Lab Reviews
 
 # Things We'll Cover Today
 [Ruby Basics Review](https://learn.flatironschool.com/tracks/web-development-ruby/ruby/ruby-introduction/ruby-basics-lecture-review)
