@@ -4,7 +4,7 @@ The plan        |      |
 ----------------|-------
 9 - 9:30        | TODO: [Ruby Basics](http://learn.flatironschool.com/lessons/3788)
 9:30 - 10       | Programmer of the Day Lecture
-10 - 11         | [Ruby Lecture](https://learn.flatironschool.com/tracks/web-development-ruby/ruby/ruby-introduction/ruby-basics-lecture-review)
+10 - 11         | Ruby Lecture
 11 - 12         | Lab Time!
 12 - 1          | Lunch
 1 - 3           | Lab Time
@@ -13,6 +13,7 @@ The plan        |      |
 5 - 6           | Hashes and Arrays Lecture
 
 # Things We'll Cover Today
+[Ruby Basics Review](https://learn.flatironschool.com/tracks/web-development-ruby/ruby/ruby-introduction/ruby-basics-lecture-review)
 
 ## Basics
 
