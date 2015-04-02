@@ -24,11 +24,18 @@ _These are some labs and readmes that will review and reinforce lots of what we 
 
 ## Things We'll Cover Today
 
+### More on Arguments
+  * [Say Hello - Arguments](http://learn.flatironschool.com/lessons/3318)
+  * [Meal Choice - Default Arguments](http://learn.flatironschool.com/lessons/3319)
+
 ### More on Arrays
   * [Creation, Manipulation, and Retrieval](http://learn.flatironschool.com/lessons/3345)
+  * [Simple Array Manipulations](http://learn.flatironschool.com/lessons/3352)
 
 ### Iteration
   * [Iteration and Abstraction in Ruby](http://learn.flatironschool.com/lessons/3347)
+  * [Badges and Schedules - Iteration](http://learn.flatironschool.com/lessons/3353)
+  * [Deli Counter - Iteration](http://learn.flatironschool.com/lessons/3354)
 
 ### Enumerators
 
@@ -42,20 +49,11 @@ _These are some labs and readmes that will review and reinforce lots of what we 
       - _Read through the README so you can understand a simple overview of symbols, and what they do for hashes_
   * [Key for Min Value](http://learn.flatironschool.com/lessons/3839)
 
-## Labs
+### Optional Labs
 
-* [Say Hello - Arguments](http://learn.flatironschool.com/lessons/3318)
-* [Meal Choice - Default Arguments](http://learn.flatironschool.com/lessons/3319)
-* [Badges and Schedules - Iteration](http://learn.flatironschool.com/lessons/3353)
-* [Deli Counter - Iteration](http://learn.flatironschool.com/lessons/3354)
-* [Introduction to Hashes](http://learn.flatironschool.com/lessons/3362)
-* [Simple Array Manipulations](http://learn.flatironschool.com/lessons/3352)
-
-### Optional
-
-* [Implementing Prime](http://learn.flatironschool.com/lessons/3350)
-* [Square Array](http://learn.flatironschool.com/lessons/3348)
-* [A Blackjack CLI](http://learn.flatironschool.com/lessons/3342)
+  * [Implementing Prime](http://learn.flatironschool.com/lessons/3350)
+  * [Square Array](http://learn.flatironschool.com/lessons/3348)
+  * [A Blackjack CLI](http://learn.flatironschool.com/lessons/3342)
 
 ## Notes
 
