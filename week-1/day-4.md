@@ -45,6 +45,7 @@ _These are some labs and readmes that will review and reinforce lots of what we 
 ### More on Hashes
 
   * [Introduction to Hashes](http://learn.flatironschool.com/lessons/3361)
+  * [Introduction to Hashes Lab](http://learn.flatironschool.com/lessons/3362)
   * [Symbols](http://learn.flatironschool.com/lessons/3363)
       - _Read through the README so you can understand a simple overview of symbols, and what they do for hashes_
   * [Key for Min Value](http://learn.flatironschool.com/lessons/3839)
