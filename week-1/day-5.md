@@ -9,10 +9,11 @@ The plan        |      |
 10 - 10:30      | Tutoring/Mentorship Talk in Turing
 10:30 - 12      | Ruby Lecture
 12 - 1          | Lunch
-1 - 3           | Labs
-3 - 4           | Feeling Friday
-4 - 5:30        | Work on Blackjack CLI with Groups
-5:30 - 6        | Self Assessment + Grab a beer :-) GREAT WEEK
+1 - 2           | Labs
+2 - 3           | Feeling Friday
+3 - 3:30        | Self Assessment
+3:30 - 5:30     | Work on Blackjack CLI with Groups
+5:30 -          | Grab a drink!
 
 ## Feeling Fridays and Self Assessment
 
