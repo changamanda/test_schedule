@@ -4,7 +4,7 @@ Week 1 is done! Great job! Let's keep working hard, being nice, staying positive
 
 The plan        |      |
 ----------------|-------
-9:00 - 9:30     | To Do
+9:00 - 9:30     | TODO: [Introduction to Hashes](http://learn.flatironschool.com/lessons/3362)
 9:30 - 10       | Placements Orientation in Turing
 10 - 10:30      | Tutoring/Mentorship Talk in Turing
 10:30 - 12      | Ruby Lecture
