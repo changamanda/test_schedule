@@ -1,4 +1,4 @@
-# Day 6 - Monday, April 5, 2015
+# Day 6 - Monday, April 6, 2015
 
 The plan        |      |
 ----------------|-------
