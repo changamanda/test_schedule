@@ -21,6 +21,8 @@ The plan        |      |
 ## Topics We'll Introduce
 
 * [Bundler](http://learn.flatironschool.com/lessons/3398)
+* [Regex: Video 1](https://learn.flatironschool.com/lessons/5263)
+* [Regex: Video 2](https://learn.flatironschool.com/lessons/5264)
 
 ## Labs
 
