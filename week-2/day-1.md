@@ -11,7 +11,7 @@ The plan        |      |
 3 - 6           | Labs
 
 ## Quick Announcement
-* Please do the [Week 1 Flatiron Assessment](http://goo.gl/forms/ifsSnFBv1J) if you haven't yet done so!
+* Please do the [Week 1 Flatiron Assessment](https://docs.google.com/forms/d/1rOyWpCPxZGDtkNh2rGRls3wMTTYd5fAK0RoPJsY63gw/viewform) if you haven't yet done so!
 
 ## Labs We'll Review
 
