@@ -8,7 +8,7 @@ Presenting Blog on April  7, 2015
 ------------
 Hannah Westheimer
 Kenny Miyasato
-Abeille Abejorro
+Blythe Abejorro
 
 Presenting Blog on April  8, 2015
 ------------
@@ -20,7 +20,7 @@ Presenting Blog on April  9, 2015
 ------------
 Lucy Orbach
 Simone Hill
-Ben Gadbaw
+Jack Gaybrick
 
 Presenting Blog on April 10, 2015
 ------------
@@ -62,7 +62,7 @@ Presenting Blog on April 20, 2015
 ------------
 Hannah Westheimer
 Kenny Miyasato
-Abeille Abejorro
+Blythe Abejorro
 
 Presenting Blog on April 21, 2015
 ------------
@@ -74,7 +74,7 @@ Presenting Blog on April 22, 2015
 ------------
 Lucy Orbach
 Simone Hill
-Ben Gadbaw
+Jack Gaybrick
 
 Presenting Blog on April 23, 2015
 ------------
@@ -116,7 +116,7 @@ Presenting Blog on May  1, 2015
 ------------
 Hannah Westheimer
 Kenny Miyasato
-Abeille Abejorro
+Blythe Abejorro
 
 Presenting Blog on May  4, 2015
 ------------
@@ -128,7 +128,7 @@ Presenting Blog on May  5, 2015
 ------------
 Lucy Orbach
 Simone Hill
-Ben Gadbaw
+Jack Gaybrick
 
 Presenting Blog on May  6, 2015
 ------------
@@ -170,7 +170,7 @@ Presenting Blog on May 14, 2015
 ------------
 Hannah Westheimer
 Kenny Miyasato
-Abeille Abejorro
+Blythe Abejorro
 
 Presenting Blog on May 15, 2015
 ------------
@@ -182,7 +182,7 @@ Presenting Blog on May 18, 2015
 ------------
 Lucy Orbach
 Simone Hill
-Ben Gadbaw
+Jack Gaybrick
 
 Presenting Blog on May 19, 2015
 ------------
@@ -224,7 +224,7 @@ Presenting Blog on May 27, 2015
 ------------
 Hannah Westheimer
 Kenny Miyasato
-Abeille Abejorro
+Blythe Abejorro
 
 Presenting Blog on May 28, 2015
 ------------
@@ -236,7 +236,7 @@ Presenting Blog on May 29, 2015
 ------------
 Lucy Orbach
 Simone Hill
-Ben Gadbaw
+Jack Gaybrick
 
 Presenting Blog on June  1, 2015
 ------------
@@ -278,7 +278,7 @@ Presenting Blog on June  9, 2015
 ------------
 Hannah Westheimer
 Kenny Miyasato
-Abeille Abejorro
+Blythe Abejorro
 
 Presenting Blog on June 10, 2015
 ------------
@@ -290,7 +290,7 @@ Presenting Blog on June 11, 2015
 ------------
 Lucy Orbach
 Simone Hill
-Ben Gadbaw
+Jack Gaybrick
 
 Presenting Blog on June 12, 2015
 ------------
