@@ -6,6 +6,7 @@ The password for all Vimeo videos is `33west26`
 [Bash](https://vimeo.com/123753701)  
 [Basic Ruby](https://vimeo.com/123873420)  
 [Hashes and Arrays](https://vimeo.com/123908163)  
+[Regular Expressions](https://vimeo.com/124244110)  
 
 ## Reviews
 [Git Flow](https://vimeo.com/123780757)   
