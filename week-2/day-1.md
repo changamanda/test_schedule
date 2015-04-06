@@ -44,7 +44,7 @@ _We probably won't explicitly review these_
 * Read [Classes, Objects, and Variables](https://d1b10bmlvqabco.cloudfront.net/attach/hp1gjffx8fx6j9/hr7wtssoha35bk/hrjlw1258fnw/3._Objects_Classes_and_Variables.pdf)
 * Read [Chapter 1 of Practical Object Oriented Design](http://books.flatironschool.com/books/102?page=49)
 
-## Labs
+### HW Labs
 
 ### Required
 
