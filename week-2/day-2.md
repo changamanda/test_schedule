@@ -7,8 +7,8 @@ The plan        |      |
 9:45 - 12       | Object Orientation Lecture
 12 - 1          | Lunch
 1 - 2           | Timothy Holman of Tumblr
-2 - 4:30        | Labs
-4:30 - 6        | Review Labs (Hashketball / Ruby Assessment / Pigeon Organizer)
+2 - 5           | Labs
+5 - 6           | Review Labs (Hashketball / Ruby Assessment)
 
 ## Object Orientation 
 
