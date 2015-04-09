@@ -2,7 +2,7 @@
 
 The plan        |      |
 ----------------|-------
-9:00 - 9:30     | TODO: [Anagram TODO](https://learn.flatironschool.com/lessons/4176)
+9:00 - 9:30     | TODO: [Bachelor TODO](https://github.com/flatiron-school-ironboard/the-bachelor-todo-ruby-007)
 9:30 - 9:45     | Blogs
 9:45 - 10:30    | Scraping Lecture
 10:30 - 12      | [Student Scrape Lab](http://learn.flatironschool.com/lessons/3446)
@@ -11,8 +11,6 @@ The plan        |      |
 3 - 4:30        | Movement Workshop with John Doyle
 4:30 - 5        | Finish Up Scrape Lab / Work on Labs
 5 - 6           | Lab Reviews (TBD)
-
-## [New Seating](http://i.imgur.com/vePni34.png)
 
 ## Labs
 
