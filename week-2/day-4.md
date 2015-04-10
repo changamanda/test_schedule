@@ -12,11 +12,10 @@ The plan        |      |
 
 
 ## Labs
-* [Green Grocer](http://learn.flatironschool.com/lessons/3391) (Procedural, complex logic, a good test)
-* [Anagram - Initialize with Attributes](http://learn.flatironschool.com/lessons/4176)
 * [FakeArray](http://learn.flatironschool.com/lessons/3426)
 * [FakeHash](http://learn.flatironschool.com/lessons/3427)
 * [OO Cash Register](http://learn.flatironschool.com/lessons/3927) 
+* [Green Grocer](http://learn.flatironschool.com/lessons/3391) (Procedural, complex logic, a good test)
 
 ## Reading
 
