@@ -8,6 +8,7 @@ The password for all Vimeo videos is `33west26`
 [Hashes and Arrays](https://vimeo.com/123908163)  
 [Regular Expressions](https://vimeo.com/124244110)  
 [Object Orientation](https://vimeo.com/124327282)  
+[OO Reviews and Object interactions](https://vimeo.com/124662007)  
 
 ## Reviews
 [Git Flow](https://vimeo.com/123780757)   
