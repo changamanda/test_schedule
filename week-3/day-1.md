@@ -28,6 +28,10 @@ The plan        |      |
 * [Insert and Select](http://learn.flatironschool.com/lessons/3473)
 * [Update and Delete](http://learn.flatironschool.com/lessons/3478)
 
+## More Challenging Labs
+
+* [Table Relations Lab](http://learn.flatironschool.com/lessons/3483)
+
 ## Resources to Practice SQL
 
 * [W3Schools](http://www.w3schools.com/) - [SQL](http://www.w3schools.com/sql)
