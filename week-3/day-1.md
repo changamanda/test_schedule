@@ -19,6 +19,7 @@ The plan        |      |
 * [SQL Book:Delete](http://learn.flatironschool.com/lessons/3477)
 * [SQL Book:Keys and Relations](http://learn.flatironschool.com/lessons/3481)
 * [SQL Book:Joins](http://learn.flatironschool.com/lessons/3482)
+* [Debugging SQLite](https://learn.flatironschool.com/lessons/6113)
 
 ## Labs
 
