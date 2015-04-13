@@ -1,5 +1,6 @@
 Presenting on April 21, 2015
 ------------
+#####Instructor: Amanda
 Jahde Eve  
 Adam Czerepinski  
 
@@ -10,6 +11,7 @@ Findlay Parke
 ------------
 Presenting on April 28, 2015
 ------------
+#####Instructor: Steven
 Jonathan Meyers  
 Ian Valentine  
 
@@ -20,6 +22,7 @@ Blythe Abejorro
 ------------
 Presenting on May  5, 2015
 ------------
+#####Instructor: Amanda
 Waruna Perera  
 Dana Najjar  
 
@@ -30,6 +33,7 @@ Timothy Murray
 ------------
 Presenting on May 12, 2015
 ------------
+#####Instructor: Josh
 Jack Gaybrick  
 Jonathan Tow    
 
@@ -40,6 +44,7 @@ Josh Baker
 ------------
 Presenting on May 19, 2015
 ------------
+#####Instructor: Steven
 Cassidy Robertson  
 Kenny Miyasato  
 
@@ -50,7 +55,7 @@ Lucy Orbach
 ------------
 Presenting on May 26, 2015
 ------------
-
+#####Instructor: Amanda
 Simone Hill  
 Evan Schrager  
 
@@ -63,6 +68,7 @@ Chad Ruble
 
 Presenting on June  2, 2015
 ------------
+#####Instructor: Josh
 Stefania Sicurelli  
 Franco Mendoza  
 
