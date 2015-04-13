@@ -4,11 +4,12 @@ The plan        |      |
 ----------------|-------
 9:00 - 9:30     | Start SQL Readings
 9:30 - 10       | Blogs
-10 ~ 11:30      | Moronic Monday!
-11:30 - 12      | Lab Review
+10 - 11         | Moronic Monday!
+11 - 12         | OO Labs
 12 - 1          | Lunch
-1 - 3           | SQL Lecture
-3 - 6           | Labs
+1 - 1:30        | Continue SQL Readings
+1:30 - 3:30     | SQL Lecture
+3:30 - 6        | Labs
 
 ## Reading
 
@@ -20,7 +21,7 @@ The plan        |      |
 * [SQL Book:Keys and Relations](http://learn.flatironschool.com/lessons/3481)
 * [SQL Book:Joins](http://learn.flatironschool.com/lessons/3482)
 
-## Labs
+## Labs: Do these first!
 
 * [Creating Tables](http://learn.flatironschool.com/lessons/3468)
 * [Insert and Select](http://learn.flatironschool.com/lessons/3473)
