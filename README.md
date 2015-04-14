@@ -1,1 +1,1 @@
-week-3/day-1.md
+week-3/day-2.md
