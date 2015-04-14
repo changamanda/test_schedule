@@ -2,7 +2,7 @@
 
 The plan        |      |
 ----------------|-------
-9:00 - 9:30     | Twitter Todo
+9:00 - 9:30     | [Twitter Todo](https://learn.flatironschool.com/lessons/6237)
 9:30 - 11       | Review Playlister CLI
 11 - 12         | Presentation Presentation
 12 - 1          | Lunch
