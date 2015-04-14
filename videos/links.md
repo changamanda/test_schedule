@@ -9,6 +9,7 @@ The password for all Vimeo videos is `33west26`
 [Regular Expressions](https://vimeo.com/124244110)  
 [Object Orientation](https://vimeo.com/124327282)  
 [OO Reviews and Object interactions](https://vimeo.com/124662007)  
+[SQL Lecture](https://vimeo.com/124876115)  
 
 ## Reviews
 [Git Flow](https://vimeo.com/123780757)   
@@ -19,3 +20,4 @@ Hashketball [(1)](http://flatiron-videos.s3.amazonaws.com/web-0415/hashketball-1
 
 ## Moronic Monday
 [1](https://vimeo.com/124216128)  
+[2](https://vimeo.com/124839528)  
