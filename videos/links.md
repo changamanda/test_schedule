@@ -10,6 +10,7 @@ The password for all Vimeo videos is `33west26`
 [Object Orientation](https://vimeo.com/124327282)  
 [OO Reviews and Object interactions](https://vimeo.com/124662007)  
 [SQL Lecture](https://vimeo.com/124876115)  
+[SQL Lecture +=1](https://vimeo.com/124987007)  
 
 ## Reviews
 [Git Flow](https://vimeo.com/123780757)   
