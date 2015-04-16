@@ -12,6 +12,7 @@ The password for all Vimeo videos is `33west26`
 [SQL Lecture](https://vimeo.com/124876115)  
 [SQL Lecture +=1](https://vimeo.com/124987007)  
 [Modules](https://vimeo.com/124989911)  
+[ORM](https://vimeo.com/125104614)  
 
 ## Reviews
 [Git Flow](https://vimeo.com/123780757)   
