@@ -21,6 +21,7 @@ The password for all Vimeo videos is `33west26`
 [Apples and Holidays](http://flatiron-videos.s3.amazonaws.com/web-0415/apples_and_holidays_review.mp4)   
 [Apples and Holidays, Part 2](http://flatiron-videos.s3.amazonaws.com/web-0415/hashes_review.mp4)   
 Hashketball [(1)](http://flatiron-videos.s3.amazonaws.com/web-0415/hashketball-1-review.mp4) [(2)](http://flatiron-videos.s3.amazonaws.com/web-0415/hashketball-2-review.mp4)
+[Green Grocer](http://flatiron-videos.s3.amazonaws.com/web-0415/green-grocer-review.mp4)
 
 ## Moronic Monday
 [1](https://vimeo.com/124216128)  
