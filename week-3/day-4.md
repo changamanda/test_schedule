@@ -6,8 +6,9 @@ The plan        |      |
 9:30 - 10       | Blogs
 10 - 12         | SQL/ORM Labs
 12 - 1          | Lunch
-1 - 2           | Lecture
-2 - 4:30        | SQL/ORMS Labs and ActiveRecord Reading
+1 - 2:30           | Lecture
+2:30 - 4:30        | SQL/ORMS Labs and ActiveRecord Reading
+4:30 - 6       | Lab Review (School Domain Querying)
 
 ## Re: The ActiveRecord Reading
 
