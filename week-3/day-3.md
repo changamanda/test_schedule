@@ -2,7 +2,7 @@
 
 The plan        |      |
 ----------------|-------
-9:00 - 9:30     | [RAKE TODO](http://learn.flatironschool.com/lessons/3501)
+9:00 - 9:30     | [RAKE TODO](/lessons/3501)
 9:30 - 10       | Blogs
 10 - 11         | Green Grocer Review
 11 - 12         | Crowdfunding Review
@@ -12,8 +12,8 @@ The plan        |      |
 
 # Labs
 
-* [School Domain with DB](http://learn.flatironschool.com/lessons/3497)
-* [School Domain Querying](http://learn.flatironschool.com/lessons/3496)
+* [School Domain with DB](/lessons/3497)
+* [School Domain Querying](/lessons/3496)
 
 ## Note
 
