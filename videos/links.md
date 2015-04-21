@@ -15,6 +15,8 @@ The password for all Vimeo videos is `33west26`
 [ORM](https://vimeo.com/125104614)  
 [Environment Setup](https://vimeo.com/125181525)  
 [ActiveRecord](https://vimeo.com/125281773)  
+[ERB](https://vimeo.com/125500801)  
+
 
 ## Reviews
 [Git Flow](https://vimeo.com/123780757)   
@@ -28,3 +30,4 @@ Hashketball [(1)](http://flatiron-videos.s3.amazonaws.com/web-0415/hashketball-1
 ## Moronic Monday
 [1](https://vimeo.com/124216128)  
 [2](https://vimeo.com/124839528)  
+[3](https://vimeo.com/125494464)  
