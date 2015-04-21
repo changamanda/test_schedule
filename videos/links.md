@@ -16,6 +16,7 @@ The password for all Vimeo videos is `33west26`
 [Environment Setup](https://vimeo.com/125181525)  
 [ActiveRecord](https://vimeo.com/125281773)  
 [ERB](https://vimeo.com/125500801)  
+[Rack and Sinatra](https://vimeo.com/125623108)  
 
 
 ## Reviews
