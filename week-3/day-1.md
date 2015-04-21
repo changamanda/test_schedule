@@ -13,24 +13,24 @@ The plan        |      |
 
 ## Reading
 
-* [SQL Book:Working with Tables](http://learn.flatironschool.com/lessons/3467)
-* [SQL Book:Insert and Select](http://learn.flatironschool.com/lessons/3471)
-* [SQL Book:Operators](http://learn.flatironschool.com/lessons/3472)
-* [SQL Book:Update](http://learn.flatironschool.com/lessons/3476)
-* [SQL Book:Delete](http://learn.flatironschool.com/lessons/3477)
-* [SQL Book:Keys and Relations](http://learn.flatironschool.com/lessons/3481)
-* [SQL Book:Joins](http://learn.flatironschool.com/lessons/3482)
+* [SQL Book:Working with Tables](/lessons/3467)
+* [SQL Book:Insert and Select](/lessons/3471)
+* [SQL Book:Operators](/lessons/3472)
+* [SQL Book:Update](/lessons/3476)
+* [SQL Book:Delete](/lessons/3477)
+* [SQL Book:Keys and Relations](/lessons/3481)
+* [SQL Book:Joins](/lessons/3482)
 * [Debugging SQLite](https://learn.flatironschool.com/lessons/6113)
 
 ## Labs: Do these first!
 
-* [Creating Tables](http://learn.flatironschool.com/lessons/3468)
-* [Insert and Select](http://learn.flatironschool.com/lessons/3473)
-* [Update and Delete](http://learn.flatironschool.com/lessons/3478)
+* [Creating Tables](/lessons/3468)
+* [Insert and Select](/lessons/3473)
+* [Update and Delete](/lessons/3478)
 
 ## More Challenging Labs
 
-* [Table Relations Lab](http://learn.flatironschool.com/lessons/3483)
+* [Table Relations Lab](/lessons/3483)
 
 ## Resources to Practice SQL
 
@@ -39,6 +39,6 @@ The plan        |      |
 
 ## More OO Practice (Optional)
 
-* [Mass Assignment](http://learn.flatironschool.com/lessons/3417)
-* [OO Secret Handshake](http://learn.flatironschool.com/lessons/3429)
-* [OO Person](http://learn.flatironschool.com/lessons/4174)
+* [Mass Assignment](/lessons/3417)
+* [OO Secret Handshake](/lessons/3429)
+* [OO Person](/lessons/4174)
