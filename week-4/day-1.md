@@ -2,7 +2,7 @@
 
 The plan        |      |
 ----------------|-------
-9:00 - 9:30     | [OO - Refactoring Ruby](http://learn.flatironschool.com/lessons/4381)
+9:00 - 9:30     | [OO - Refactoring Ruby](/lessons/4381)
 9:30 - 10       | Science Fair Inf[o](http://media.giphy.com/media/3oEduU8I0dHP38CdLW/giphy.gif)
 10 - 10:30      | Blogs
 10:30 - 11      | Moronic Monday!
@@ -14,8 +14,8 @@ The plan        |      |
 
 # Labs
 
-* [ERB - Templating](http://learn.flatironschool.com/lessons/3536): _Finish this first_
-* [Playlister ERB + AR](http://learn.flatironschool.com/lessons/3537)
+* [ERB - Templating](/lessons/3536): _Finish this first_
+* [Playlister ERB + AR](/lessons/3537)
 
 ## HW
 
@@ -23,8 +23,8 @@ The plan        |      |
 
 ## Reading 
 
-* [Middleware](http://learn.flatironschool.com/lessons/3541)
-* [File Structure](http://learn.flatironschool.com/lessons/3542)
-* [Routes](http://learn.flatironschool.com/lessons/3543)
-* [URL Params](http://learn.flatironschool.com/lessons/3544)
+* [Middleware](/lessons/3541)
+* [File Structure](/lessons/3542)
+* [Routes](/lessons/3543)
+* [URL Params](/lessons/3544)
 * [ActiveRecord Associations <please read!>](http://books.flatironschool.com/books/113?page=117)
