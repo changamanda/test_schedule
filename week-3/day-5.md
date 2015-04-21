@@ -2,7 +2,7 @@
 
 The plan        |      |
 ----------------|-------
-9:00 - 9:45     | [ActiveRecord TODO](http://learn.flatironschool.com/lessons/3504)
+9:00 - 9:45     | [ActiveRecord TODO](/lessons/3504)
 9:45 - 10       | Blogs
 10 - 12         | Lecture
 12 - 1          | Lunch
@@ -20,20 +20,20 @@ The plan        |      |
 
 # Labs
 
-* [AR Associations: TV Land](http://learn.flatironschool.com/lessons/3511)
-* [Migrations: Playlister on AR](http://learn.flatironschool.com/lessons/3510)
+* [AR Associations: TV Land](/lessons/3511)
+* [Migrations: Playlister on AR](/lessons/3510)
 
 # HW
 
-* [ActiveRecord CRUD](http://learn.flatironschool.com/lessons/3505)
-* [ERB - Templating](http://learn.flatironschool.com/lessons/3536)
+* [ActiveRecord CRUD](/lessons/3505)
+* [ERB - Templating](/lessons/3536)
 * Catch up on labs!
 
 ## Reading
 
-* [DNS](http://learn.flatironschool.com/lessons/3518)
-* [Headers](http://learn.flatironschool.com/lessons/3519)
-* [HTTP Request](http://learn.flatironschool.com/lessons/3520)
-* [HTTP Response](http://learn.flatironschool.com/lessons/3521)
-* [Status Codes](http://learn.flatironschool.com/lessons/3522)
-* [HTTP Methods](http://learn.flatironschool.com/lessons/3523)
+* [DNS](/lessons/3518)
+* [Headers](/lessons/3519)
+* [HTTP Request](/lessons/3520)
+* [HTTP Response](/lessons/3521)
+* [Status Codes](/lessons/3522)
+* [HTTP Methods](/lessons/3523)
