@@ -2,7 +2,7 @@
 
 The plan        |      |
 ----------------|-------
-9 - 9:30        | [RACK TODO](http://learn.flatironschool.com/lessons/3526)
+9 - 9:30        | [RACK TODO](/lessons/3526)
 9:30 - 10       | Blogs
 10 - 11         | Labs
 11 - 12         | Internet Lecture
@@ -13,18 +13,18 @@ The plan        |      |
 
 # Labs
 
-* [Sinatra Twitter Todo](http://learn.flatironschool.com/lessons/3545)
-* [Sinatra Adventure](http://learn.flatironschool.com/lessons/3559)
+* [Sinatra Twitter Todo](/lessons/3545)
+* [Sinatra Adventure](/lessons/3559)
 
 # HW
 
-* [Playlister ERB + AR](http://learn.flatironschool.com/lessons/3537)
+* [Playlister ERB + AR](/lessons/3537)
 
 ## Reading 
 
-* [Cookies](http://learn.flatironschool.com/lessons/3556)
-* [Middleware](http://learn.flatironschool.com/lessons/3541)
-* [File Structure](http://learn.flatironschool.com/lessons/3542)
-* [Routes](http://learn.flatironschool.com/lessons/3543)
-* [URL Params](http://learn.flatironschool.com/lessons/3544)
+* [Cookies](/lessons/3556)
+* [Middleware](/lessons/3541)
+* [File Structure](/lessons/3542)
+* [Routes](/lessons/3543)
+* [URL Params](/lessons/3544)
 * [ActiveRecord Associations <please read!>](http://books.flatironschool.com/books/113?page=117)
