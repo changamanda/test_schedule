@@ -10,7 +10,7 @@ The plan        |      |
 3 - 5           | Labs (Staff Meeting)
 5 - 6           | Review Playlister ERB
 
-## [NEW SEATING CHART](http://i61.tinypic.com/rw2i38.png)
+## [NEW SEATING CHART](http://oi61.tinypic.com/rw2i38.jpg)
 
 ## Note
 
