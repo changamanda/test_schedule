@@ -17,6 +17,7 @@ The password for all Vimeo videos is `33west26`
 [ActiveRecord](https://vimeo.com/125281773)  
 [ERB](https://vimeo.com/125500801)  
 [Rack and Sinatra](https://vimeo.com/125623108)  
+[Forms](https://vimeo.com/125716991)
 
 
 ## Reviews
@@ -27,7 +28,8 @@ The password for all Vimeo videos is `33west26`
 Hashketball [(1)](http://flatiron-videos.s3.amazonaws.com/web-0415/hashketball-1-review.mp4) [(2)](http://flatiron-videos.s3.amazonaws.com/web-0415/hashketball-2-review.mp4)   
 [Green Grocer](http://flatiron-videos.s3.amazonaws.com/web-0415/green-grocer-review.mp4)  
 [Playlister CLI Review](https://vimeo.com/125279861)  
-[ERB Templating](http://flatiron-videos.s3.amazonaws.com/web-0415/erb-templating-lab-review.mp4)
+[ERB Templating](http://flatiron-videos.s3.amazonaws.com/web-0415/erb-templating-lab-review.mp4)  
+[Playlister-AR-Static](https://vimeo.com/125811121)  
 
 ## Moronic Monday
 [1](https://vimeo.com/124216128)  
