@@ -21,7 +21,6 @@ The password for all Vimeo videos is `33west26`
 [Sinatra Nested Forms](https://vimeo.com/126161820)  
 [Sessions](https://vimeo.com/126182614)  
 
-
 ## Reviews
 [Git Flow](https://vimeo.com/123780757)   
 [Rspec Fizzbuzz](http://flatiron-videos.s3.amazonaws.com/web-0415/rspec-fizzbuzz-review.mp4)   
@@ -37,3 +36,4 @@ Hashketball [(1)](http://flatiron-videos.s3.amazonaws.com/web-0415/hashketball-1
 [1](https://vimeo.com/124216128)  
 [2](https://vimeo.com/124839528)  
 [3](https://vimeo.com/125494464)  
+[4](http://vimeo.com/126187765)  
