@@ -11,7 +11,7 @@ Findlay Parke
 ------------
 Presenting on May  5, 2015
 ------------
-#####Instructor: Steven
+#####Instructor: Ben
 Jonathan Meyers  
 Ian Valentine  
 
@@ -44,7 +44,7 @@ Josh Baker
 ------------
 Presenting on May 26, 2015
 ------------
-#####Instructor: Steven
+#####Instructor: Ben
 Cassidy Robertson  
 Kenny Miyasato  
 
