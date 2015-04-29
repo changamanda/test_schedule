@@ -17,6 +17,6 @@ The plan        |      |
 
 _You should have enough time this afternoon to actually read about Rails. Please do the reading – it will make your life better! :)_
 
-* [Building Rails with Sinatra: Sinatra Students](http://learn.flatironschool.com/lessons/3569)
 * [Rails MVC Structure](http://learn.flatironschool.com/lessons/3575)
-* All the Rails Guides! - http://guides.rubyonrails.org/
+* [Rails Forms](https://learn.co/lessons/3581)
+* [All the Rails Guides!](http://guides.rubyonrails.org/)
