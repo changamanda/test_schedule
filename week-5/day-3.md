@@ -6,7 +6,7 @@ The plan        |      |
 9:45 - 12       | Playlister Sinatra Review
 12 - 1          | Lunch
 1 - 3           | Lecture
-3 - 6           | Sinatra Pigeon, Sinatra Assessment/ORM Review
+3 - 6           | Labs
 
 ## New Labs TBD
 
