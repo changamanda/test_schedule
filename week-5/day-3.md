@@ -8,9 +8,14 @@ The plan        |      |
 1 - 3           | Lecture
 3 - 6           | Labs
 
-## New Labs TBD
+## Rails Labs
+
+* [Rails Blog Scaffold](http://learn.flatironschool.com/lessons/3576)
+* [Join the Fun](http://learn.flatironschool.com/lessons/3585)
 
 ## Read about Rails
+
+_You should have enough time this afternoon to actually read about Rails. Please do the reading – it will make your life better! :)_
 
 * [Building Rails with Sinatra: Sinatra Students](http://learn.flatironschool.com/lessons/3569)
 * [Rails MVC Structure](http://learn.flatironschool.com/lessons/3575)
