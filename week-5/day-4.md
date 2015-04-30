@@ -8,7 +8,7 @@ The plan        |      |
 12 - 1          | Lunch
 1 - 2           | Chris Goodmacher of Justworks
 2 - 5           | Rails Labs
-5 - 6           | Lab Review
+5 - 6           | Do the Rails Readings/Lab
 
 ## Labs / HW
 
