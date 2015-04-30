@@ -17,6 +17,10 @@ The plan        |      |
 
 * [Rails Blog Associations & Validations](http://learn.flatironschool.com/lessons/3580)
 * [Rails Forms](http://learn.flatironschool.com/lessons/3581)
+* READ THESE!
+  * [Layouts and Rendering](http://guides.rubyonrails.org/layouts_and_rendering.html)   
+  * [Form Helpers](http://guides.rubyonrails.org/form_helpers.html)
+  * [About controllers](http://guides.rubyonrails.org/action_controller_overview.html) especially [this](http://guides.rubyonrails.org/action_controller_overview.html#strong-parameters).
 
 ## Books to Start Reading
 
