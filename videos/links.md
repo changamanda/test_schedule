@@ -20,7 +20,7 @@ The password for all Vimeo videos is `33west26`
 [Forms](https://vimeo.com/125716991)  
 [Sinatra Nested Forms](https://vimeo.com/126161820)  
 [Sessions](https://vimeo.com/126182614)   
-[Intro to Rails](https://vimeo.com/126432295) 
+[Intro to Rails](https://vimeo.com/126432295)   
 [Routes, Controllers, and Views](https://vimeo.com/126563838)  
 
 ## Reviews
