@@ -22,6 +22,7 @@ The password for all Vimeo videos is `33west26`
 [Sessions](https://vimeo.com/126182614)   
 [Intro to Rails](https://vimeo.com/126432295)   
 [Routes, Controllers, and Views](https://vimeo.com/126563838)  
+[Rails Forms](https://vimeo.com/126622015)  
 
 ## Reviews
 [Git Flow](https://vimeo.com/123780757)   
