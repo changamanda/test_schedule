@@ -7,7 +7,8 @@ The plan        |      |
 9:45 - 11       | Moronic Monday
 11 - 12         | Work on Rails Labs
 12 - 1          | Lunch
-1 - 4:30        | Work on Rails Labs
+1 - 2           | Chris Whong of Socrata
+2 - 4:30        | Work on Rails Labs
 4:30 - 6        | Rails Labs Review - [Rails Blog Associations & Validations](http://learn.co/lessons/3580)
 
 # Topics Covered
