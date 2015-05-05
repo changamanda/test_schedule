@@ -35,6 +35,7 @@ Hashketball [(1)](http://flatiron-videos.s3.amazonaws.com/web-0415/hashketball-1
 [ERB Templating](http://flatiron-videos.s3.amazonaws.com/web-0415/erb-templating-lab-review.mp4)  
 [Playlister-AR-Static](https://vimeo.com/125811121)   
 [Playlister-Sinatra](https://vimeo.com/126462456)  
+[AR associations and validations](https://vimeo.com/126864148)  
 
 ## Moronic Monday
 [1](https://vimeo.com/124216128)  
