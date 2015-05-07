@@ -4,10 +4,11 @@ The plan        |      |
 ----------------|-------
 9:00 - 9:30     | Todo: [Sum Square Difference](http://learn.co/lessons/3937)
 9:30 - 9:45     | Blogs
-9:45 - 12       | Lecture
+9:45 - 12       | Catch Up On Labs
 12 - 1          | Lunch
-1 - 4:30        | Work on Labs
-4:30 - 6        | Lab Reviews
+1 - 2           | Labs
+2 - 4:30        | Lecture
+4:30 - 6        | Work on New Labs/Homework
 
 
 # Topics Covered
