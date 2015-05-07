@@ -6,8 +6,8 @@ The plan        |      |
 9:30 - 9:45     | Blogs
 9:45 - 12       | Catch Up On Labs
 12 - 1          | Lunch
-1 - 2           | Labs
-2 - 4:30        | Lecture
+1 - 2:30        | Labs
+2:30 - 4:30     | Lecture
 4:30 - 6        | Work on New Labs/Homework
 
 
