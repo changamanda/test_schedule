@@ -21,3 +21,4 @@ The plan        |      |
 * [Flatiron Store](http://learn.co/lessons/3609)
 * [Rails Amusement Park](http://learn.co/lessons/3607)
 * Week 6 Assessment
+* [Javascript Jabber: The History of Javascript](http://www.stitcher.com/podcast/ruby-rogues/javascript-jabber/e/124-jsj-the-origin-of-javascript-with-brendan-eich-35282918)
