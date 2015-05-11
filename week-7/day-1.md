@@ -2,7 +2,7 @@
 
 The plan        |      |
 ----------------|-------
-9:00 - 9:30     | [Intro to JS and Jasmine](http://learn.co/lessons/1552)
+9:00 - 9:30     | [Intro to JS and Jasmine](http://learn.co/lessons/3619)
 9:30 - 9:45     | Blogs
 9:45 - 10:45    | Moronic Monday
 10:45 - 12      | Ruby to JS Lecture
