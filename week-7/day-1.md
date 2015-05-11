@@ -8,9 +8,9 @@ The plan        |      |
 10:45 - 12      | Ruby to JS Lecture
 12 - 1          | Lunch
 1 - 2           | Cassidy Williams of Venmo
-2 - 3           | [JS FizzBuzz](http://learn.co/lessons/1553), [Dice.js](http://learn.co/lessons/1554), [isBetween.js](http://learn.co/lessons/1555), [Teenager](http://learn.co/lessons/1556)
+2 - 3           | [JS FizzBuzz](http://learn.co/lessons/3621), [Dice.js](http://learn.co/lessons/3622), [isBetween.js](http://learn.co/lessons/3620), [Teenager](http://learn.co/lessons/3623)
 3 - 5           | Lecture
-5 - 6           | [Dog.js](http://learn.co/lessons/1557), [Bicycle Race](http://learn.co/lessons/1635)
+5 - 6           | [Dog.js](http://learn.co/lessons/3624), [Bicycle Race](http://learn.co/lessons/3625)
 
 # Topics Covered
 
@@ -19,12 +19,12 @@ The plan        |      |
 * Object Orientation in JS
 
 # Labs + HW
-* [Intro to JS and Jasmine](http://learn.co/lessons/1552)
-* [JS FizzBuzz](http://learn.co/lessons/1553)
-* [Dice.js](http://learn.co/lessons/1554)
-* [isBetween.js](http://learn.co/lessons/1555)
-* [Teenager](http://learn.co/lessons/1556)
-* [Dog.js](http://learn.co/lessons/1557)
-* [Bicycle Race](http://learn.co/lessons/1635)
-* [Space Invaders](http://learn.co/lessons/318)
-* [Kindergarten Garden](http://learn.co/lessons/1728)
+* [Intro to JS and Jasmine](http://learn.co/lessons/3619)
+* [JS FizzBuzz](http://learn.co/lessons/3621)
+* [Dice.js](http://learn.co/lessons/3622)
+* [isBetween.js](http://learn.co/lessons/3620)
+* [Teenager](http://learn.co/lessons/3623)
+* [Dog.js](http://learn.co/lessons/3624)
+* [Bicycle Race](http://learn.co/lessons/3625)
+* [Space Invaders](http://learn.co/lessons/3628)
+* [Kindergarten Garden](http://learn.co/lessons/3635)
