@@ -9,7 +9,7 @@ The plan        |      |
 12 - 1          | Lunch
 1 - 2           | Lecture
 2 - 4:30        | Labs
-4:30 - 6        | Lab Reviews (Space Invaders + Tweet Shortener)
+4:30 - 6        | Lab Review (Space Invaders)
 
 # Topics Covered
 
