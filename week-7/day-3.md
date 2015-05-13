@@ -6,8 +6,8 @@ The plan        |      |
 12 - 1          | Lunch
 1 - 2           | Labs
 2 - 3           | Mark Egerman from Cover
-3 - 4           | Lab Review (Tweet-Shortener)
-4 - 6           | Labs
+3 - 4:45        | Labs
+4:45 - 6        | Lab Review (Tweet-Shortener)
 
 # Labs + HW
 
