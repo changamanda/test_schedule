@@ -28,6 +28,7 @@ The password for all Vimeo videos is `33west26`
 [Recap - Nested Resources](https://vimeo.com/127669254)  
 [Nested Forms](https://vimeo.com/127522906)  
 [Ruby to JavaScript](http://vimeo.com/127510747)  
+[JavaScript Objects](https://vimeo.com/127673000)  
 
 ## Reviews
 [Git Flow](https://vimeo.com/123780757)   
