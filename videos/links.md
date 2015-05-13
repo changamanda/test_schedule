@@ -31,6 +31,7 @@ The password for all Vimeo videos is `33west26`
 [JavaScript Objects](https://vimeo.com/127673000)  
 [Fun With Functions](https://vimeo.com/127763177)  
 [Closures and This](https://vimeo.com/127741349)  
+[jQuery and Events](https://vimeo.com/127765613)  
 
 ## Reviews
 [Git Flow](https://vimeo.com/123780757)   
