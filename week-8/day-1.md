@@ -10,9 +10,8 @@ The plan        |      |
 2 - 5           | Labs
 5 - 6           | Lab Review (YouTube AJAX Todo)
 
-# Topics Covered
+# Reading/Activity
 
-* [JSON Palooza](http://learn.co/lessons/3613)
 * [Deployment with Heroku](https://learn.co/lessons/5196)
 
 # Labs
