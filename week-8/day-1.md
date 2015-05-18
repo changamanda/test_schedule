@@ -16,8 +16,6 @@ The plan        |      |
 
 # Labs
 
-* Catch Up on Labs from Last week!
-
 * [JS AJAX YouTube Todo](https://learn.flatironschool.com/lessons/3646)
 * [JS Spotify AJAX](https://learn.flatironschool.com/lessons/3649)
 * [Flickr Image Search](https://learn.flatironschool.com/lessons/3650)
