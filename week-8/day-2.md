@@ -6,8 +6,8 @@ The plan        |      |
 9:30 - 10       | Blogs
 10 - 12					| Lecture
 12 - 1          | Lunch
-1 - 5           | Lecture
-5 - 6           | Lab Review
+1 - 4:30        | Labs
+4:30 - 6        | Lab Review
 
 ## Labs
 
