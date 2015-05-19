@@ -35,6 +35,7 @@ The password for all Vimeo videos is `33west26`
 [jQuery and Events (Amazon)](https://flatiron-videos.s3.amazonaws.com/web-0415/jQuery%20and%20Events.mp4)  
 [Ajax](https://flatiron-videos.s3.amazonaws.com/web-0415/ajax.mp4)  
 [Moar Ajax](https://flatiron-videos.s3.amazonaws.com/web-0415/Ajax%202.mp4)  
+[Deployment](http://vimeo.com/128282777)  
 
 ## Reviews
 [Git Flow](https://vimeo.com/123780757)   
