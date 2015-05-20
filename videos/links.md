@@ -35,8 +35,8 @@ The password for all Vimeo videos is `33west26`
 [Ajax](https://flatiron-videos.s3.amazonaws.com/web-0415/ajax.mp4)  
 [Moar Ajax](https://flatiron-videos.s3.amazonaws.com/web-0415/Ajax%202.mp4)  
 [Deployment](http://vimeo.com/128282777)  
-[Styling 1](http://flatiron-videos.s3.amazonaws.com/web-0415/styling-1.mp4)
-[Styling 2](http://flatiron-videos.s3.amazonaws.com/web-0415/styling-2.mp4)
+[Styling 1](http://flatiron-videos.s3.amazonaws.com/web-0415/styling-1.mp4)  
+[Styling 2](http://flatiron-videos.s3.amazonaws.com/web-0415/styling-2.mp4)  
 [Styling 3](http://flatiron-videos.s3.amazonaws.com/web-0415/styling-3.mp4)
 
 ## Reviews
@@ -52,9 +52,9 @@ Hashketball [(1)](http://flatiron-videos.s3.amazonaws.com/web-0415/hashketball-1
 [Playlister-Sinatra](https://vimeo.com/126462456)  
 [AR associations and validations](https://vimeo.com/126864148)  
 [AREL associations](https://vimeo.com/126981801)  
-[Space Invaders](http://flatiron-videos.s3.amazonaws.com/web-0415/space.mp4)
-[jQuery Donut Party](http://flatiron-videos.s3.amazonaws.com/web-0415/donuts.mp4)
-[YouTube AJAX](http://flatiron-videos.s3.amazonaws.com/web-0415/youtube-ajax-with-vim.mp4)
+[Space Invaders](http://flatiron-videos.s3.amazonaws.com/web-0415/space.mp4)  
+[jQuery Donut Party](http://flatiron-videos.s3.amazonaws.com/web-0415/donuts.mp4)  
+[YouTube AJAX](http://flatiron-videos.s3.amazonaws.com/web-0415/youtube-ajax-with-vim.mp4)  
 [Flatstagram](http://flatiron-videos.s3.amazonaws.com/web-0415/flatstagram.mp4)
 
 ## Moronic Monday
