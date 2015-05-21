@@ -55,7 +55,8 @@ Hashketball [(1)](http://flatiron-videos.s3.amazonaws.com/web-0415/hashketball-1
 [Space Invaders](http://flatiron-videos.s3.amazonaws.com/web-0415/space.mp4)  
 [jQuery Donut Party](http://flatiron-videos.s3.amazonaws.com/web-0415/donuts.mp4)  
 [YouTube AJAX](http://flatiron-videos.s3.amazonaws.com/web-0415/youtube-ajax-with-vim.mp4)  
-[Flatstagram](http://flatiron-videos.s3.amazonaws.com/web-0415/flatstagram.mp4)
+[Flatstagram](http://flatiron-videos.s3.amazonaws.com/web-0415/flatstagram.mp4)  
+[Task Lister](https://vimeo.com/128431305)  
 
 ## Moronic Monday
 [1](https://vimeo.com/124216128)  
