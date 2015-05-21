@@ -39,7 +39,9 @@ The password for all Vimeo videos is `33west26`
 [Styling 1](http://flatiron-videos.s3.amazonaws.com/web-0415/styling-1.mp4)  
 [Styling 2 Vimeo](https://vimeo.com/128443800)   
 [Styling 2](http://flatiron-videos.s3.amazonaws.com/web-0415/styling-2.mp4)  
-[Styling 3](http://flatiron-videos.s3.amazonaws.com/web-0415/styling-3.mp4)
+[Styling 3 Vimeo](https://vimeo.com/128444987)  
+[Styling 3](http://flatiron-videos.s3.amazonaws.com/web-0415/styling-3.mp4)  
+
 
 ## Reviews
 [Git Flow](https://vimeo.com/123780757)   
