@@ -35,7 +35,9 @@ The password for all Vimeo videos is `33west26`
 [Ajax](https://flatiron-videos.s3.amazonaws.com/web-0415/ajax.mp4)  
 [Moar Ajax](https://flatiron-videos.s3.amazonaws.com/web-0415/Ajax%202.mp4)  
 [Deployment](http://vimeo.com/128282777)  
+[Styling 1 Vimeo](https://vimeo.com/128441896)  
 [Styling 1](http://flatiron-videos.s3.amazonaws.com/web-0415/styling-1.mp4)  
+[Styling 2 Vimeo](https://vimeo.com/128443800)   
 [Styling 2](http://flatiron-videos.s3.amazonaws.com/web-0415/styling-2.mp4)  
 [Styling 3](http://flatiron-videos.s3.amazonaws.com/web-0415/styling-3.mp4)
 
