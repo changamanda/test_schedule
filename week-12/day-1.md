@@ -9,3 +9,7 @@ The plan      |                                                               |
 1:00  - 4:00  | Computer Science Talk
 4:00  - 5:00  | CS Labs
 5:00  - 6:00  | Set Up for Speed Dating
+
+
+### Lab
+- [Linked List](https://learn.co/tracks/web-development-ruby/technical-interview-prep/data-structures/linked-lists)
