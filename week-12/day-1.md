@@ -7,7 +7,7 @@ The plan      |                                                               |
 10:30 - 12:00 | Elevator Pitch Walkthrough
 12:00 - 1:00  | Lunch
 1:00  - 4:00  | Computer Science Talk
-4:00  - 5:00  | CS Labs
+4:00  - 5:00  | CS Lab (work on Linked List)
 5:00  - 6:00  | Set Up for Speed Dating
 
 
