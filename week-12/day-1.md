@@ -13,3 +13,8 @@ The plan      |                                                               |
 
 ### Lab
 - [Linked List](https://learn.co/tracks/web-development-ruby/technical-interview-prep/data-structures/linked-lists)
+
+### Homework
+- Practice your pitch for employers
+- Get plenty of rest
+- Be here at 8:30 am sharp!
