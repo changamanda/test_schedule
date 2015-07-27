@@ -7,7 +7,7 @@ The plan        |      |
 9 - 12          | [Deploy on Day 1](https://github.com/learn-co-students/deploy-on-day-1-web-0715)
 12 - 1    | Lunch
 1 - 4     | Orientation
-4 - 5     | Git / Github / Learn in Turing
+4 - 5     | Git / Github / Learn
 5 - 6        | Finish Up Deploy on Day 1 + Labs
 
 ## Homework
