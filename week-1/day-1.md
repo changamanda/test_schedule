@@ -4,7 +4,7 @@ Welcome to Flatiron School! :squirrel: Welcome to Flatiron School!
 
 The plan        |      |
 ----------------|-------
-9 - 12          | [Deploy on Day 1](https://github.com/flatiron-school-ironboard/deploy-on-day-1-web-0415)
+9 - 12          | [Deploy on Day 1](https://github.com/learn-co-students/deploy-on-day-1-web-0715)
 12 - 1    | Lunch
 1 - 4     | Orientation
 4 - 5     | Git / Github / Learn in Turing
