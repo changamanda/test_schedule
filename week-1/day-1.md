@@ -49,4 +49,4 @@ Use these to brush up on topics you don't know. Obviously you can't read all the
   * Markdown plugins and apps
     - [Sublime MD Preview Plugin](https://github.com/revolunet/sublimetext-markdown-preview)
     - [Mou MD writer app](http://mouapp.com/)
-    - [Atom text editor](https://atom.io) has a markdown preview built in.
+    - [Atom text editor](https://atom.io) has a markdown preview built in
