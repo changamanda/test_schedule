@@ -12,10 +12,10 @@ The plan        |      |
 
 ## Homework
 
-* [Git Todo](http://learn.flatironschool.com/lessons/3292)
-* [Passion and Talent](http://learn.flatironschool.com/lessons/3282)
-* [Hackers and Painters](http://learn.flatironschool.com/lessons/3283)
-* [Bash Tutorial](http://learn.flatironschool.com/lessons/3291) (Review)
+* [Git Todo](http://learn.flatironschool.com/lessons/10225)
+* [Passion and Talent](http://learn.flatironschool.com/lessons/9690)
+* [Hackers and Painters](http://learn.flatironschool.com/lessons/9691)
+* [Bash Tutorial](http://learn.flatironschool.com/lessons/10211) (Review)
 
 If you can go into terminal and type: gcc and get anything besides `-bash: gcc: command not found` you're good.
 
