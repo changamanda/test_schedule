@@ -16,7 +16,7 @@ The plan        |      |
 
 *Tackle these assignments in this order*
 
-* [Merge Conflict Lab](http://learn.flatironschool.com/lessons/3294)
+* [Merge Conflict Lab](http://learn.flatironschool.com/lessons/10227)
 * [Incorporating Lab Changes](http://learn.flatironschool.com/lessons/10234)
 * [Hello World Ruby](http://learn.flatironschool.com/lessons/10601)
 * [IRB Reading](http://learn.flatironschool.com/lessons/10602)
