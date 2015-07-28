@@ -22,6 +22,9 @@ The plan        |      |
 * [IRB Reading](http://learn.flatironschool.com/lessons/10602)
 * [Ruby Data Types](https://learn.co/lessons/10603)
 * [Reading Error Messages](https://learn.co/lessons/10604)
+* [Fixing Our Broken Program](https://learn.co/lessons/10605)
+* [Debugging Errors](https://learn.co/lessons/10606)
+* [Intro to RSpec](https://learn.co/lessons/10607)
 
 ## Logistics
 
