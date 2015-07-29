@@ -62,3 +62,5 @@ The plan        |      |
   * [7.3 Looping](http://books.flatironschool.com/books/43?page=54), page 54
   * [Containers, Blocks and Iterators](http://books.flatironschool.com/books/11?page=61)
       - _Very Important! This will be very essential for the labs coming tomorrow and Friday._
+* [Array Documentation](http://ruby-doc.org/core-2.2.0/Array.html)
+* [Hash Documentation](http://ruby-doc.org/core-2.2.0/Hash.html)
