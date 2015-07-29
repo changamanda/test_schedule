@@ -1,54 +1,54 @@
-# Day 3 - Wednesday, April 1, 2015 
+# Day 3 - Wednesday, July 29, 2015
 
 The plan        |      |
 ----------------|-------
-9 - 9:30        | TODO: [Ruby Basics](http://learn.flatironschool.com/lessons/3788)
+9 - 9:30        | TODO: [Math in Ruby](https://learn.co/lessons/10609)
 9:30 - 10       | Programmer of the Day Lecture
-10 - 11         | Ruby Lecture
-11 - 12         | Lab Time!
+10 - 12         | Ruby Lecture
 12 - 1          | Lunch
-1 - 3           | Lab Time
-3 - 4           | Group Programming Exercise
-4 - 5           | Hashes and Arrays Lecture
+1 - 4           | Labs Time!
+4 - 5           | Group Programming Exercise
 5 - 6           | Lab Reviews
 
-# Things We'll Cover Today
-[Ruby Basics Review](https://learn.flatironschool.com/tracks/web-development-ruby/ruby/ruby-introduction/ruby-basics-lecture-review)
+## From Yesterday
 
-## Basics
-
-* [IRB](http://learn.flatironschool.com/lessons/3306)
-* [Simple Math](http://learn.flatironschool.com/lessons/3327)
-* [Data Types](http://learn.flatironschool.com/lessons/3323)
-* [Running a Ruby File](http://learn.flatironschool.com/lessons/3305)
-* [Puts, Print, and Return](http://learn.flatironschool.com/lessons/3315)
-* [Introduction to RSPec](http://learn.flatironschool.com/lessons/3333)
-  - _With this lab, you might want to read it first for its introduction to RSPec and then solve it later, once you know a bit more about if statements_
+* [Intro to RSpec](https://learn.co/lessons/10607)
 
 ## Variables
-* [Creation and Assignment](http://learn.flatironschool.com/lessons/3313)
+
+* [About Variable Assignment](http://learn.flatironschool.com/lessons/10611)
+* [Ruby Variable Assignment](https://learn.co/lessons/10612)
+* [Ruby Variable Types](https://learn.co/lessons/10613)
 
 ## Methods
-* [Methods, Return Values, and Arguments](http://learn.flatironschool.com/lessons/3316)
 
-## Control Flow
-* [Truthiness](http://learn.flatironschool.com/lessons/3325)
-* [Booleans](http://learn.flatironschool.com/lessons/3324)
-* [Conditionals](http://learn.flatironschool.com/lessons/3331)
-* [Case Statements](http://learn.flatironschool.com/lessons/3334)
-* [Operations](http://learn.flatironschool.com/lessons/3341)
+* [Methods](http://learn.flatironschool.com/lessons/10614)
+* [Methods and Arguments](https://learn.co/lessons/10615)
+* [Puts and Return Values](https://learn.co/lessons/10616)
+* [TDD, RSpec, and Learn](https://learn.co/lessons/10617)
+* [Interpolation Readme](https://learn.co/lessons/10618)
+* [Introductory Default Arguments 1](https://learn.co/lessons/10619)
+* [Debugging with Pry](https://learn.co/lessons/10620)
+* [Introductory Default Arguments 2](https://learn.co/lessons/10621)
+* [Parrot](https://learn.co/lessons/10622)
+* [Dice Roll](https://learn.co/lessons/10623)
+* [Ruby Basics Review Video](https://learn.co/lessons/10624)
+* [Ruby Basics Review](https://learn.co/lessons/10625)
 
-## Debugging
-* [Pry](http://learn.flatironschool.com/lessons/3792)
-* [Reading Errors](http://learn.flatironschool.com/lessons/3793)
+## Booleans
 
-## Labs
+* [Booleans & Truthiness in Ruby](https://learn.co/lessons/10627)
+* [Boolean Operators](https://learn.co/lessons/10628)
+* [Code Challenge](https://learn.co/lessons/10629)
 
-- [Variable Assignment](http://learn.flatironschool.com/lessons/3314)
-- [Simple Math](http://learn.flatironschool.com/lessons/3327)
-- [Testing Truth](http://learn.flatironschool.com/lessons/3326)
-- [RSpec Fizzbuzz](http://learn.flatironschool.com/lessons/3333)
-- [Syntax Errors](http://learn.flatironschool.com/lessons/3310)
+## Conditionals
+
+* [About Ruby Conditionals](https://learn.co/lessons/10632)
+* [Speaking Grandma](https://learn.co/lessons/10633)
+* [Fizzbuzz](https://learn.co/lessons/10634)
+* [Operators and Conditionals](https://learn.co/lessons/10635)
+* [About Ruby Case Statements](https://learn.co/lessons/10636)
+* [Conditional Quiz](https://learn.co/lessons/10637)
 
 ## Homework
 
