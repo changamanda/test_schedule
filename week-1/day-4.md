@@ -2,7 +2,7 @@
 
 The plan        |      |
 ----------------|-------
-9 - 9:30        | TODO: [Simple Loops](http://learn.flatironschool.com/lessons/3836)
+9 - 9:30        | TODO: [Simple Loops](http://learn.flatironschool.com/lessons/10645)
 9:30 - 10  | Placements Orientation
 10 - 12       | Ruby Lecture
 12 - 1          | Lunch
