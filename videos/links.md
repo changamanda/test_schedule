@@ -4,3 +4,4 @@
 [Bash](https://www.youtube.com/watch?v=R90ey6XfKt8) [(Code)](https://gist.github.com/StevenNunez/60a5ce2bbb7147302941)  
 [Basic Ruby](http://youtu.be/QZzwQoOu8MA) [(Code)](https://github.com/learn-co-students/ruby-basics-web-0715)  
 [Arrays, Hashes, & Iterators](http://youtu.be/IqRwCRmzySc) [(Code)](https://github.com/learn-co-students/arrays_hashes_iteration-web-0715)  
+[APIs and yield](http://youtu.be/nY0JKct9q4c)[(Code)](https://github.com/learn-co-students/the_web_and_yield-web-0715)
