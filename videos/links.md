@@ -6,3 +6,9 @@
 [Arrays, Hashes, & Iterators](http://youtu.be/IqRwCRmzySc) [(Code)](https://github.com/learn-co-students/arrays_hashes_iteration-web-0715)  
 [APIs and yield](http://youtu.be/nY0JKct9q4c) [(Code)](https://github.com/learn-co-students/the_web_and_yield-web-0715)  
 [Regular Expressions](http://youtu.be/XXb_B_to7pc) [(Code)](https://github.com/learn-co-students/regular-expressions-web-0715)
+
+
+# Reviews
+[Hashketball](http://youtu.be/c-eeFlohefk)  
+# Moronic Mondays  
+[Number 1](http://youtu.be/2RkUBdYpEkA) 
