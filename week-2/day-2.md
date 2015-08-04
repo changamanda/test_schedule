@@ -1,4 +1,4 @@
-#  Day 7 - Tuesday, August 3, 2015
+#  Day 7 - Tuesday, August 4, 2015
 
 The plan        |      |
 ----------------|-------
