@@ -5,7 +5,8 @@
 [Basic Ruby](http://youtu.be/QZzwQoOu8MA) [(Code)](https://github.com/learn-co-students/ruby-basics-web-0715)  
 [Arrays, Hashes, & Iterators](http://youtu.be/IqRwCRmzySc) [(Code)](https://github.com/learn-co-students/arrays_hashes_iteration-web-0715)  
 [APIs and yield](http://youtu.be/nY0JKct9q4c) [(Code)](https://github.com/learn-co-students/the_web_and_yield-web-0715)  
-[Regular Expressions](http://youtu.be/XXb_B_to7pc) [(Code)](https://github.com/learn-co-students/regular-expressions-web-0715)
+[Regular Expressions](http://youtu.be/XXb_B_to7pc) [(Code)](https://github.com/learn-co-students/regular-expressions-web-0715)  
+[Object Orientation](http://youtu.be/7IXszgcQb0M) [(Code)](https://github.com/learn-co-students/object_orientation-web-0715)  
 
 
 # Reviews
