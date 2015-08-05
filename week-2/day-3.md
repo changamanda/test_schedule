@@ -13,7 +13,6 @@ The plan        |      |
 
 ### More OO Labs/Lessons
 * [OO School Domain](https://learn.co/lessons/9866)
-* [Mass Assignment](https://learn.co/lessons/9862)
 * [OO Data Normalization](https://learn.co/lessons/9867)
 * [OO Triangle Classification](https://learn.co/lessons/9868)
 * [OO Cash Register](https://learn.co/lessons/9869)
@@ -28,6 +27,7 @@ _Don't worry if you don't quite finish these; you'll have some time later in the
 * [OO Playlister](https://learn.co/lessons/9882)
 
 ### Bonus – do these last!
+* [Mass Assignment](https://learn.co/lessons/9862)
 * [Bonus - OO Fake Array](https://learn.co/lessons/9871)
 * [Bonus - OO Fake Hash](https://learn.co/lessons/9872)
 * [Bonus - OO Roman Numerals](https://learn.co/lessons/9873)
