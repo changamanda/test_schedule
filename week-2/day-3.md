@@ -13,6 +13,7 @@ The plan        |      |
 
 ### More OO Labs/Lessons
 * [OO School Domain](https://learn.co/lessons/9866)
+* [Mass Assignment](https://learn.co/lessons/9862)
 * [OO Data Normalization](https://learn.co/lessons/9867)
 * [OO Triangle Classification](https://learn.co/lessons/9868)
 * [OO Cash Register](https://learn.co/lessons/9869)
